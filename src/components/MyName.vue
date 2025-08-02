@@ -1,6 +1,6 @@
 <template>
   <div class="my-name">
-    <h2>Hello, my name is Naif Alharbi!</h2>
+    <h2>Hello, my name is Naif M Alharbi !</h2>
   </div>
 </template>
 
